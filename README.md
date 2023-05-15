@@ -3,7 +3,7 @@ This project name has the term 'Fetch' in it, which is related to the retrieval 
 
 # 讲义
 
-- [Fetch data from the internet - Dart.pdf](Fetch data from the internet - Dart.pdf)
+[Fetch data from the internet - Dart.pdf](Fetch data from the internet - Dart.pdf)
 
 
 讲义末尾的那段示例代码（PDF中无法完整展示，故单独在下面列出来）
